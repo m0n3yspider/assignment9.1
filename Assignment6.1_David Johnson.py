@@ -1,4 +1,4 @@
-#David Johnson 4-17-2020 Assignment 6.1
+#David Johnson 4-17-2020
 
 #function to convert miles to kilometers
 def miTOkm(mi):
